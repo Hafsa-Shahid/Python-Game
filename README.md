@@ -1,2 +1,2 @@
 # Python-Game
-A small game using python language
+On a task given to me for creating a game to guess a secret number, I prepared this python file. It contains some other codes also that can be useful. For instance,generating function for identifying vowels from a sentence and other codes like identifying if a student is eligible for admission or not based on the asked parameters. The instructions' PDF used to complete this python file can be provided on requests.
